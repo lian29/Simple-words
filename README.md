@@ -4,6 +4,6 @@ git add Simplewords.mkd
 
 git commit -m "Simplewords.mkd"
 
-git remote add Simplewords.mkd https://github.com/ken800314/Simple-words.git
+git remote add origin https://github.com/ken800314/Simple-words.git
 
-git push -u Simplewords.mkd master
+git push -u origin masterr
