@@ -12,7 +12,7 @@
 
 `git commit -m "註解"`
 
-另外也可以把git add與git commit用一個指令完成<pre><code>
+另外也可以把git add與git commit用一個指令完成
 
 `git commit -a -m "註解"`
 
