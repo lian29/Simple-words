@@ -18,4 +18,5 @@ git push
 
 如果您在github上的版本較新，也可以輸入git pull
 更新本地端的repo
+
 git pull git://github.com/ken800314/Simple-words.git
