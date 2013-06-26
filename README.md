@@ -8,6 +8,10 @@
 
 `git add .`
 
+只加修改過的檔案, 新增的檔案不加入
+
+`git add -u`
+
 之後commit提交一次的修改
 
 `git commit -m "註解"`
@@ -24,3 +28,7 @@
 更新本地端的repo
 
 `git pull git://github.com/ken800314/Simple-words.git`
+
+刪除檔案
+
+`git rm "檔名"`
